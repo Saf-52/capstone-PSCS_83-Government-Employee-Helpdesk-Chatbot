@@ -1,0 +1,186 @@
+[
+  {
+    "text": "how do I apply",
+    "intent": "ask_complaint",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.4877018928527832
+    }
+  },
+  {
+    "text": "guide me to apply",
+    "intent": "ask_complaint",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.40663501620292664
+    }
+  },
+  {
+    "text": "how do I apply",
+    "intent": "ask_it",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.4877018928527832
+    }
+  },
+  {
+    "text": "guide me to apply",
+    "intent": "ask_it",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.40663501620292664
+    }
+  },
+  {
+    "text": "what is the process to apply",
+    "intent": "ask_it",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.3986644446849823
+    }
+  },
+  {
+    "text": "please apply",
+    "intent": "ask_it",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.33582207560539246
+    }
+  },
+  {
+    "text": "where can I apply",
+    "intent": "ask_it",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.44588062167167664
+    }
+  },
+  {
+    "text": "can you help me to apply",
+    "intent": "ask_leave",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.46164384484291077
+    }
+  },
+  {
+    "text": "where can I apply",
+    "intent": "ask_leave",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.44588062167167664
+    }
+  },
+  {
+    "text": "please apply",
+    "intent": "ask_leave",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.33582207560539246
+    }
+  },
+  {
+    "text": "what is the process to apply",
+    "intent": "ask_leave",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.3986644446849823
+    }
+  },
+  {
+    "text": "where can I apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.44588062167167664
+    }
+  },
+  {
+    "text": "what is the process to apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.3986644446849823
+    }
+  },
+  {
+    "text": "guide me to apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.40663501620292664
+    }
+  },
+  {
+    "text": "how do I apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.4877018928527832
+    }
+  },
+  {
+    "text": "please apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.33582207560539246
+    }
+  },
+  {
+    "text": "can you help me to apply",
+    "intent": "ask_procurement",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.46164384484291077
+    }
+  },
+  {
+    "text": "please apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.33582207560539246
+    }
+  },
+  {
+    "text": "where can I apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.44588062167167664
+    }
+  },
+  {
+    "text": "what is the process to apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.3986644446849823
+    }
+  },
+  {
+    "text": "can you help me to apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_complaint",
+      "confidence": 0.46164384484291077
+    }
+  },
+  {
+    "text": "how do I apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.4877018928527832
+    }
+  },
+  {
+    "text": "guide me to apply",
+    "intent": "ask_salary",
+    "intent_prediction": {
+      "name": "ask_leave",
+      "confidence": 0.40663501620292664
+    }
+  }
+]

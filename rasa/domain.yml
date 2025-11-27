@@ -1,0 +1,41 @@
+version: "3.1"
+
+intents:
+  - ask_procurement
+  - ask_leave
+  - ask_salary
+  - ask_services
+  - ask_complaint
+  - ask_it
+  - fallback
+
+responses:
+  utter_ask_procurement:
+    - text: "To raise a procurement request, open the Procurement Portal → New PR → Fill details → Submit."
+
+  utter_ask_leave:
+    - text: "Visit HR Portal → Leave Management → Apply Leave. Select dates, type of leave and submit for approval."
+
+  utter_ask_salary:
+    - text: "Open Payroll Portal → Payslip → Select month → Download as PDF."
+
+  utter_ask_services:
+    - text: "You can use Procurement, HR, IT, and General services through this helpdesk."
+
+  utter_ask_complaint:
+    - text: "Visit the Helpdesk Portal → Complaints → Submit a complaint form."
+
+  utter_ask_it:
+    - text: "Go to IT Support → My Tickets → Status to check your IT request."
+
+  utter_default:
+    - text: "Sorry, I couldn’t find an exact answer. I’ll escalate this to human support."
+
+actions:
+  - utter_ask_procurement
+  - utter_ask_leave
+  - utter_ask_salary
+  - utter_ask_services
+  - utter_ask_complaint
+  - utter_ask_it
+  - utter_default
